@@ -35,7 +35,7 @@ open http://localhost:9000
 ## 参考にしたコード
 
 ### 公式Tutorial(Pytorch)
-https://github.com/optuna/optuna/blob/master/examples/pytorch_simple.py
+- https://github.com/optuna/optuna/blob/master/examples/pytorch_simple.py
 ### その他
-https://gist.github.com/nogawanogawa/f6b5a36143a56c62c8d100ebf85702cb
-https://github.com/Yushi-Goto/optuna-with-pytorch
+- https://gist.github.com/nogawanogawa/f6b5a36143a56c62c8d100ebf85702cb
+- https://github.com/Yushi-Goto/optuna-with-pytorch
