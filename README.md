@@ -1,6 +1,9 @@
 ## 概要
 輪講用に作成した Optuna と mlflow 用のチュートリアルコードを載せています．
 
+## 資料
+https://drive.google.com/file/d/1WiHrBRRDXEgmVpUzm3vozj4HXEn_S5Q6/view?usp=sharing
+
 ## 環境
 ```bash
 Python 3.6.5
